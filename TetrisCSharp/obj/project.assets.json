@@ -126,19 +126,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\brase\\.nuget\\packages\\": {}
+    "C:\\Users\\Plouf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brase\\OneDrive\\Bureau\\CSharpProject\\TetrisCSharp\\TetrisCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Plouf\\Desktop\\Projet_CSharp\\TetrisCSharp\\TetrisCSharp.csproj",
       "projectName": "TetrisCSharp",
-      "projectPath": "C:\\Users\\brase\\OneDrive\\Bureau\\CSharpProject\\TetrisCSharp\\TetrisCSharp.csproj",
-      "packagesPath": "C:\\Users\\brase\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brase\\OneDrive\\Bureau\\CSharpProject\\TetrisCSharp\\obj\\",
+      "projectPath": "C:\\Users\\Plouf\\Desktop\\Projet_CSharp\\TetrisCSharp\\TetrisCSharp.csproj",
+      "packagesPath": "C:\\Users\\Plouf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Plouf\\Desktop\\Projet_CSharp\\TetrisCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\brase\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Plouf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

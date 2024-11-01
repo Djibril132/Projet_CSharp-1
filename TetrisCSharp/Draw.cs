@@ -37,11 +37,61 @@ namespace Raylib_cs
         Raylib.DrawText("Next piece", initialX + 30*12 + 60, initialY - 30, 30, Color.Black);
     }
 
+    public static void DrawNextPiece(int[ , ] piece, int initialX, int initialY)
+    {
+        for (int i = 0; i < piece.GetLength(0); i++)
+        {
+            for (int j = 0; j < piece.GetLength(1); j++)
+            {
+                if (piece[j, i] == 1)
+                {
+                    if (piece.GetLength(0) == 2)
+                    {
+                        Raylib.DrawRectangle(initialX + 30*15 + i * 30 + 15, initialY + 30*3 + j * 30, 30, 30, Color.Purple);
+                    }
+                    else if (piece.GetLength(0) == 4)
+                    {
+                        Raylib.DrawRectangle(initialX + 30*15 + i * 30 - 15, initialY + 30*3 + j * 30 - 15, 30, 30, Color.Purple);
+                    }
+                    else
+                    {
+                        Raylib.DrawRectangle(initialX + 30*15 + i * 30, initialY + 30*3 + j * 30, 30, 30, Color.Purple);
+                    }
+                }
+            }
+        }
+    }
+
     public static void DrawHeldPieceFrame(int initialX, int initialY)
     {
         Raylib.DrawRectangle(initialX - 30*10, initialY + 15, 30*7, 30*7, Color.LightGray);
         Raylib.DrawRectangle(initialX - 30*9 - 15, initialY + 30, 30*6, 30*6, Color.White);
         Raylib.DrawText("Held piece", initialX - 30*9, initialY - 30, 30, Color.Black);
+    }
+
+    public static void DrawHeldPiece(int[ , ] piece, int initialX, int initialY)
+    {
+        for (int i = 0; i < piece.GetLength(0); i++)
+        {
+            for (int j = 0; j < piece.GetLength(1); j++)
+            {
+                if (piece[j, i] == 1)
+                {
+                    if (piece.GetLength(0) == 2)
+                    {
+                        Raylib.DrawRectangle(initialX - 30*8 + i * 30 + 15, initialY + 30*3 + j * 30, 30, 30, Color.Purple);
+                    }
+                    else if (piece.GetLength(0) == 4)
+                    {
+                        Raylib.DrawRectangle(initialX - 30*8 + i * 30 - 15, initialY + 30*3 + j * 30 - 15, 30, 30, Color.Purple);
+                    }
+                    else
+                    {
+                        Raylib.DrawRectangle(initialX - 30*8 + i * 30, initialY + 30*3 + j * 30, 30, 30, Color.Purple);
+                    }
+                }
+            }
+        }
     }
 
     public static void DrawScore(int score, int initialX, int initialY)
