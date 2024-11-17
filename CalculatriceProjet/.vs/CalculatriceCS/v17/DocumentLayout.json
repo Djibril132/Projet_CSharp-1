@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|c:\\users\\enzoc\\documents\\etudes\\ynov\\b2\\c#\\cstest\\calculatricecs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|solutionrelative:calculatricecs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\calculatricecs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|solutionrelative:calculatricecs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\calculatricecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|solutionrelative:calculatricecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\calculatricecs\\classes\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|solutionrelative:calculatricecs\\classes\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|c:\\users\\enzoc\\documents\\etudes\\ynov\\b2\\c#\\cstest\\calculatricecs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C493A4-3984-46ED-965B-F36C12F7A1E2}|CalculatriceCS\\CalculatriceCS.csproj|solutionrelative:calculatricecs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CalculatriceCS\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Form1.Designer.cs",
+              "RelativeToolTip": "CalculatriceCS\\Form1.Designer.cs",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAWwM4BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:34:24.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatriceCS\\Program.cs",
+              "ToolTip": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Program.cs",
+              "RelativeToolTip": "CalculatriceCS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:13:22.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Classes\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatriceCS\\Classes\\Calculator.cs",
+              "ToolTip": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Classes\\Calculator.cs",
+              "RelativeToolTip": "CalculatriceCS\\Classes\\Calculator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:11:10.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatriceCS\\Form1.cs",
+              "ToolTip": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Form1.cs",
+              "RelativeToolTip": "CalculatriceCS\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAzwOwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:10:34.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatriceCS\\Form1.cs",
+              "ToolTip": "C:\\Users\\enzoc\\Documents\\etudes\\Ynov\\B2\\C#\\cstest\\CalculatriceCS\\Form1.cs [Design]",
+              "RelativeToolTip": "CalculatriceCS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:10:25.816Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

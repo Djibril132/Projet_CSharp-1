@@ -1,0 +1,30 @@
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\bin\Debug\CalculatriceCS.exe.config
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\bin\Debug\CalculatriceCS.exe
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\bin\Debug\CalculatriceCS.pdb
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.csproj.AssemblyReference.cache
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.Form1.resources
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.Properties.Resources.resources
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.csproj.GenerateResource.cache
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.csproj.CoreCompileInputs.cache
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.exe
+C:\Users\enzoc\Documents\Ynov\B2\C#\Nouveau dossier\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.pdb
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\bin\Debug\CalculatriceCS.exe.config
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\bin\Debug\CalculatriceCS.exe
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\bin\Debug\CalculatriceCS.pdb
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.csproj.AssemblyReference.cache
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.Form1.resources
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.Properties.Resources.resources
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.csproj.GenerateResource.cache
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.csproj.CoreCompileInputs.cache
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.exe
+C:\Users\enzoc\Documents\Ynov\B2\C#\CalculatriceCS\CalculatriceCS\obj\Debug\CalculatriceCS.pdb
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\bin\Debug\CalculatriceCS.exe.config
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\bin\Debug\CalculatriceCS.exe
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\bin\Debug\CalculatriceCS.pdb
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\obj\Debug\CalculatriceCS.csproj.AssemblyReference.cache
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\obj\Debug\CalculatriceCS.Form1.resources
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\obj\Debug\CalculatriceCS.Properties.Resources.resources
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\obj\Debug\CalculatriceCS.csproj.GenerateResource.cache
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\obj\Debug\CalculatriceCS.csproj.CoreCompileInputs.cache
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\obj\Debug\CalculatriceCS.exe
+C:\Users\enzoc\Documents\etudes\Ynov\B2\C#\cstest\CalculatriceCS\obj\Debug\CalculatriceCS.pdb
