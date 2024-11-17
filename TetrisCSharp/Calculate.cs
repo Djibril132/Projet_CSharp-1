@@ -1,10 +1,13 @@
 
 
+using System.Diagnostics;
+
 namespace Raylib_cs
 {
     class Calculate
     {
 
+    // Check if the piece is colliding with the right wall
     public static bool CollisionRight(int[ , ] piece, int pieceX, int gridInitialX)
     {
         for (int i = 0; i < piece.GetLength(0); i++)
@@ -23,6 +26,7 @@ namespace Raylib_cs
         return false;
     }
 
+    // Check if the piece is colliding with the left wall
     public static bool CollisionLeft(int[ , ] piece, int pieceX, int gridInitialX)
     {
         for (int i = 0; i < piece.GetLength(0); i++)
@@ -41,6 +45,7 @@ namespace Raylib_cs
         return false;
     }
 
+    // Check if the piece is colliding with the bottom wall
     public static bool CollisionDown(int[ , ] piece, int pieceY, int gridInitialY)
     {
         for (int i = 0; i < piece.GetLength(0); i++)
@@ -59,6 +64,7 @@ namespace Raylib_cs
         return false;
     }
 
+    // Check if the piece is colliding with another piece of the grid on the right
     public static bool CollisionGridRight(int[ , ] piece, int pieceX, int pieceY, int[ , ] grid, int gridInitialX, int gridInitialY)
     {
         for (int i = 0; i < piece.GetLength(0); i++)
@@ -77,6 +83,7 @@ namespace Raylib_cs
         return false;
     }
 
+    // Check if the piece is colliding with another piece of the grid on the left
     public static bool CollisionGridLeft(int[ , ] piece, int pieceX, int pieceY, int[ , ] grid, int gridInitialX, int gridInitialY)
     {
         for (int i = 0; i < piece.GetLength(0); i++)
@@ -95,6 +102,7 @@ namespace Raylib_cs
         return false;
     }
 
+    // Check if the piece is colliding with another piece of the grid on the bottom
     public static bool CollisionGridDown(int[ , ] piece, int pieceX, int pieceY, int[ , ] grid, int gridInitialX, int gridInitialY)
     {
         for (int i = 0; i < piece.GetLength(0); i++)
@@ -113,8 +121,10 @@ namespace Raylib_cs
         return false;
     }
 
+    // Check if there is lines, delete them and update the score
     public static void CheckLines(int[ , ] grid, ref int score, ref int gameSpeed)
     {
+        int lines = 0;
         for (int i = 0; i < 20; i++)
         {
             bool fullLine = true;
@@ -138,15 +148,17 @@ namespace Raylib_cs
                         grid[j, k] = grid[j, k - 1];
                     }
                 }
-                score += 100;
+                lines++;
                 if (gameSpeed > 20)
                 {
                     gameSpeed -= 1;
                 }
             }
         }
+        score += lines * lines * 100;
     }
 
+    // Check if the piece is colliding with something
     public static bool AllCollisions(int[ , ] piece, int pieceX, int pieceY, int[ , ] grid, int gridInitialX, int gridInitialY)
     {
         if (CollisionRight(piece, pieceX, gridInitialX) || CollisionLeft(piece, pieceX, gridInitialX) || CollisionDown(piece, pieceY, gridInitialY) || CollisionGridRight(piece, pieceX, pieceY, grid, gridInitialX, gridInitialY) || CollisionGridLeft(piece, pieceX, pieceY, grid, gridInitialX, gridInitialY) || CollisionGridDown(piece, pieceX, pieceY, grid, gridInitialX, gridInitialY))
@@ -156,6 +168,7 @@ namespace Raylib_cs
         return false;
     }
 
+    // Check if the piece rotation is inside the grid and not colliding with anything
     public static bool RotationVerification(int[,] piece, int pieceX, int pieceY, int[,] grid, int gridInitialX, int gridInitialY)
     {
         for (int i = 0; i < piece.GetLength(0); i++)
@@ -174,6 +187,7 @@ namespace Raylib_cs
         return !AllCollisions(piece, pieceX, pieceY, grid, gridInitialX, gridInitialY);
     }
 
+    // Rotate the piece to the right
     public static void RotatePieceRight(string pieceName, ref int[ , ] piece,ref int pieceX,ref int pieceY, int[ , ] grid, int gridInitialX, int gridInitialY, ref int rotation, int[ ,, ] dictionaryI, int[ ,, ] dictionaryRest)
     {
         int[] nextTry = new int[2];
@@ -244,6 +258,7 @@ namespace Raylib_cs
         }
     }
 
+    // Rotate the piece to the left
     public static void RotatePieceLeft(string pieceName, ref int[ , ] piece,ref int pieceX,ref int pieceY, int[ , ] grid, int gridInitialX, int gridInitialY, ref int rotation, int[ ,, ] dictionaryI, int[ ,, ] dictionaryRest)
     {
         int[] nextTry = new int[2];
@@ -328,7 +343,7 @@ namespace Raylib_cs
                     {
                         nextTry[0] = dictionaryRest[rotation/90, i, 0];
                         nextTry[1] = dictionaryRest[rotation/90, i, 1];
-                        if (RotationVerification(tempPiece, pieceX + nextTry[0]*30, pieceY + nextTry[1]*30, grid, gridInitialX, gridInitialY))
+                        if (RotationVerification(tempPiece, pieceX + nextTry[0]*30 - 30, pieceY + nextTry[1]*30 + 30, grid, gridInitialX, gridInitialY))
                         {
                             piece = tempPiece;
                             pieceX += nextTry[0]*30;
@@ -347,6 +362,19 @@ namespace Raylib_cs
                 }
             }
         }
+    }
+
+    // Check if the game is finished
+    public static bool IsGameFinished(int[ , ] grid)
+    {
+        for (int i = 0; i < 10; i++)
+        {
+            if (grid[i, 0] == 1)
+            {
+                return true;
+            }
+        }
+        return false;
     }
 
     }

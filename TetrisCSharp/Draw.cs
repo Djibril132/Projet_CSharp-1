@@ -2,6 +2,7 @@ namespace Raylib_cs
 {
     class Draw
     {
+
     public static void DrawGrid(int[ , ] array, int initialX, int initialY)
         {
             Color trueColor;
