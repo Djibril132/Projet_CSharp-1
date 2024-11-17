@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TetrisCSharp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MorpionCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b38db518f22fcdf1df21adb16ea4b88d1bcdb9f")]
-[assembly: System.Reflection.AssemblyProductAttribute("TetrisCSharp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TetrisCSharp")]
+[assembly: System.Reflection.AssemblyProductAttribute("MorpionCsharp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MorpionCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

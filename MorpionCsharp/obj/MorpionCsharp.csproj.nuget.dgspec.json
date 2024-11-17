@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\TetrisCSharp\\TetrisCSharp.csproj": {}
+    "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\MorpionCsharp\\MorpionCsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\TetrisCSharp\\TetrisCSharp.csproj": {
+    "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\MorpionCsharp\\MorpionCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\TetrisCSharp\\TetrisCSharp.csproj",
-        "projectName": "TetrisCSharp",
-        "projectPath": "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\TetrisCSharp\\TetrisCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\MorpionCsharp\\MorpionCsharp.csproj",
+        "projectName": "MorpionCsharp",
+        "projectPath": "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\MorpionCsharp\\MorpionCsharp.csproj",
         "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\TetrisCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Arthur\\Desktop\\csharp\\Projet_CSharp\\MorpionCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,12 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Raylib-cs": {
-              "target": "Package",
-              "version": "[6.1.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

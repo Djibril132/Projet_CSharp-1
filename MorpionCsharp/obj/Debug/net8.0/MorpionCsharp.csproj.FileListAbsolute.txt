@@ -1,0 +1,15 @@
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\bin\Debug\net8.0\MorpionCsharp.exe
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\bin\Debug\net8.0\MorpionCsharp.deps.json
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\bin\Debug\net8.0\MorpionCsharp.runtimeconfig.json
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\bin\Debug\net8.0\MorpionCsharp.dll
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\bin\Debug\net8.0\MorpionCsharp.pdb
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\MorpionCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\MorpionCsharp.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\MorpionCsharp.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\MorpionCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\MorpionCsharp.sourcelink.json
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\MorpionCsharp.dll
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\refint\MorpionCsharp.dll
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\MorpionCsharp.pdb
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\MorpionCsharp.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\csharp\Projet_CSharp\MorpionCsharp\obj\Debug\net8.0\ref\MorpionCsharp.dll
