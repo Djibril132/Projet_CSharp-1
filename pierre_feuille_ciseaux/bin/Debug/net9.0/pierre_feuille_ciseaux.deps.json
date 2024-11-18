@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "pierre_feuille_ciseaux/1.0.0": {
+        "runtime": {
+          "pierre_feuille_ciseaux.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pierre_feuille_ciseaux/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

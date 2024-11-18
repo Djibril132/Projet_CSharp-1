@@ -1,0 +1,15 @@
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\bin\Debug\net9.0\convertisseur-pfc.exe
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\bin\Debug\net9.0\convertisseur-pfc.deps.json
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\bin\Debug\net9.0\convertisseur-pfc.runtimeconfig.json
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\bin\Debug\net9.0\convertisseur-pfc.dll
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\bin\Debug\net9.0\convertisseur-pfc.pdb
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\convertisseur-pfc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\convertisseur-pfc.AssemblyInfoInputs.cache
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\convertisseur-pfc.AssemblyInfo.cs
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\convertisseur-pfc.csproj.CoreCompileInputs.cache
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\convertisseur-pfc.sourcelink.json
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\convertisseur-pfc.dll
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\refint\convertisseur-pfc.dll
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\convertisseur-pfc.pdb
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\convertisseur-pfc.genruntimeconfig.cache
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_CSharp-1\convertisseur-pfc\obj\Debug\net9.0\ref\convertisseur-pfc.dll

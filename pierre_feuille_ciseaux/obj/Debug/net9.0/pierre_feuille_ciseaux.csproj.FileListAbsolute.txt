@@ -1,0 +1,15 @@
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\bin\Debug\net9.0\pierre_feuille_ciseaux.exe
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\bin\Debug\net9.0\pierre_feuille_ciseaux.deps.json
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\bin\Debug\net9.0\pierre_feuille_ciseaux.runtimeconfig.json
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\bin\Debug\net9.0\pierre_feuille_ciseaux.dll
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\bin\Debug\net9.0\pierre_feuille_ciseaux.pdb
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\pierre_feuille_ciseaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\pierre_feuille_ciseaux.AssemblyInfoInputs.cache
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\pierre_feuille_ciseaux.AssemblyInfo.cs
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\pierre_feuille_ciseaux.csproj.CoreCompileInputs.cache
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\pierre_feuille_ciseaux.sourcelink.json
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\pierre_feuille_ciseaux.dll
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\refint\pierre_feuille_ciseaux.dll
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\pierre_feuille_ciseaux.pdb
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\pierre_feuille_ciseaux.genruntimeconfig.cache
+C:\Users\djibr\OneDrive\Bureau\csh\Projet_Csharp-1\pierre_feuille_ciseaux\obj\Debug\net9.0\ref\pierre_feuille_ciseaux.dll
